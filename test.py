@@ -1,2 +1,1 @@
-svdvds
-sdvdsv
+print("Hello World")
